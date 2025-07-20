@@ -2,11 +2,11 @@
 This repository contains Assignment 1 for Tutdude using ReactJS. It's a simple, responsive layout showcasing reusable React components, and demonstrates the fundamentals of functional components, props, and basic styling.
 
 🚀 Features
-✅ Built with ReactJS (Functional Components)
-✅ Fully Responsive Design
-✅ Component-Based Architecture
-✅ Clean and Minimal UI
-✅ Simple CSS Styling (No external UI libraries)
+* ✅ Built with ReactJS (Functional Components)
+* ✅ Fully Responsive Design
+* ✅ Component-Based Architecture
+* ✅ Clean and Minimal UI
+* ✅ Simple CSS Styling (No external UI libraries)
 
 1. Clone the repo
 git clone https://github.com/shejoleprem/Tutdude_reactjs_ass-1.git
