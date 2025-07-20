@@ -1,6 +1,9 @@
 📘 Tutdude ReactJS Assignment - 1
 This repository contains Assignment 1 for Tutdude using ReactJS. It's a simple, responsive layout showcasing reusable React components, and demonstrates the fundamentals of functional components, props, and basic styling.
 
+** for demo click on the below link
+https://tutdude-reactjs-ass-1.vercel.app/
+
 🚀 Features
 * ✅ Built with ReactJS (Functional Components)
 * ✅ Fully Responsive Design
